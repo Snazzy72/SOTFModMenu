@@ -17,6 +17,7 @@ namespace SOTFModMenu
         {
             public static Scene sonsMainScene;
             public static Camera cameraMain;
+            
             private void Update()
             {
                 if (!sonsMainScene.isLoaded)
