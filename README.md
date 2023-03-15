@@ -23,7 +23,7 @@ At the time of writing the README, the only implemented feature is `Item Spawner
 1. Download [BepInEx](https://thunderstore.io/c/sons-of-the-forest/p/BepInEx/BepInExPack_IL2CPP/)
 2. Drag contents of the `BepInExPack` file into Sons of the Forest game directory (right click in steam > browse local files)
 3. Download SOTFModMenu.dll and drag it into BepInEx/plugins
-4. Run game before trying to find and edit config files
-4. Enjoy ;)
+
+* Run the game. If everything runs correctly, you will see BepInEx console pop up on your desktop
 
 Step 3 is not yet available. I will create a release once I have implemented a few more features. Feel free to look into the source code and build your own DLL from it if you'd like to use it immediately.
