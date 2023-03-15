@@ -10,19 +10,11 @@ The end goal is to obviously modify all in game items, vitals, stats, game state
 * Max Health
 * Max Stamina
 * Max Strength
-* Max Lung Capacity
-* No Cold
-* No Hunger
-* No Thirst
-* Always Rested
-* Instant Build
-* infinite Logs
+* Infinite Logs
 * Instant Build
 * Infinite Ammo
-* Item Spawner
-* Cave Light
-* SpeedRun
-* ESP
+* Add items to inventory
+* etc...
 
 At the time of writing the README, the only implemented feature is `Item Spawner` - Add any item to inventory, with custom amount
 
