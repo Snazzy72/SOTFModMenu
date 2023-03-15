@@ -27,17 +27,17 @@ namespace SOTFModMenu.Plugin
             try
             {
                 RegisterIL2CPPType();
-                Log.LogMessage("Successfully Registered IL2CPP Type: 'GameInstanceMonoBehavior'!'");
+                Log.LogMessage("Successfully Registered IL2CPP Type: 'GameInstanceMonoBehavior'!");
             }
             catch
             {
-                Log.LogError($"Failed to Regiset IL2CPP type: 'GameInstanceMonoBehaviour'!");
+                Log.LogError($"Failed to Register IL2CPP type: 'GameInstanceMonoBehaviour'!");
             }
 
             try
             {
                 Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly(), null);
-                Log.LogMessage("Successfully Registered Patches!");
+                Log.LogMessage("Successfully registered Patches!");
             }
             catch
             {
