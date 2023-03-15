@@ -34,4 +34,4 @@ At the time of writing the README, the only implemented feature is `Item Spawner
 4. Run game before trying to find and edit config files
 4. Enjoy ;)
 
-Step 3 is not yet available. I will create a release once I have implement a few mroe features. Feel free to look into the source code and build your own DLL from it if you'd like to use it immediately.
+Step 3 is not yet available. I will create a release once I have implemented a few more features. Feel free to look into the source code and build your own DLL from it if you'd like to use it immediately.
