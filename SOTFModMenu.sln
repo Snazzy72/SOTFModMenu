@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOTFModMenu", "SOTFModMenu.csproj", "{D9E78C70-8CF5-4C09-846F-92B8C06E273A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E78C70-8CF5-4C09-846F-92B8C06E273A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E78C70-8CF5-4C09-846F-92B8C06E273A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E78C70-8CF5-4C09-846F-92B8C06E273A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E78C70-8CF5-4C09-846F-92B8C06E273A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21A39B28-5CFC-4B5C-B555-7B7EC887FC29}
+	EndGlobalSection
+EndGlobal
