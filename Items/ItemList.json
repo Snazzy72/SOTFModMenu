@@ -1,0 +1,1652 @@
+[
+  {
+    "ID": "618",
+    "\"Name (singular)\"": "\"Printed Arrow\"",
+    "\"Name (PascalCase)\"": "3dPrintedArrow",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_ARROW"
+  },
+  {
+    "ID": "559",
+    "\"Name (singular)\"": "\"Printed Arrow Heads\"",
+    "\"Name (PascalCase)\"": "3dPrintedArrowHeads",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_ARROW_HEADS"
+  },
+  {
+    "ID": "426",
+    "\"Name (singular)\"": "\"Printed Flask\"",
+    "\"Name (PascalCase)\"": "3dPrintedFlask",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_FLASK"
+  },
+  {
+    "ID": "561",
+    "\"Name (singular)\"": "\"Printed Flower Pot\"",
+    "\"Name (PascalCase)\"": "3dPrintedFlowerPot",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_FLOWER_POT"
+  },
+  {
+    "ID": "560",
+    "\"Name (singular)\"": "\"Printed Grappling Hook\"",
+    "\"Name (PascalCase)\"": "3dPrintedGrapplingHook",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_GRAPPLING_HOOK"
+  },
+  {
+    "ID": "427",
+    "\"Name (singular)\"": "\"Printed Knife\"",
+    "\"Name (PascalCase)\"": "3dPrintedKnife",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_KNIFE"
+  },
+  {
+    "ID": "428",
+    "\"Name (singular)\"": "\"Printed Sled\"",
+    "\"Name (PascalCase)\"": "3dPrintedSled",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_SLED"
+  },
+  {
+    "ID": "429",
+    "\"Name (singular)\"": "\"Printed Scuba Mask\"",
+    "\"Name (PascalCase)\"": "3dPrintedUnderwaterMask",
+    "\"Name (SNAKE_CASE)\"": "PRINTED_SCUBA_MASK"
+  },
+  {
+    "ID": "390",
+    "\"Name (singular)\"": "\"Printer Resin\"",
+    "\"Name (PascalCase)\"": "3dPrinterResin",
+    "\"Name (SNAKE_CASE)\"": "PRINTER_RESIN"
+  },
+  {
+    "ID": "362",
+    "\"Name (singular)\"": "\"Pistol Ammo\"",
+    "\"Name (PascalCase)\"": "9mmAmmo",
+    "\"Name (SNAKE_CASE)\"": "PISTOL_AMMO"
+  },
+  {
+    "ID": "469",
+    "\"Name (singular)\"": "\"Air Canister\"",
+    "\"Name (PascalCase)\"": "AirCanister",
+    "\"Name (SNAKE_CASE)\"": "AIR_CANISTER"
+  },
+  {
+    "ID": "357",
+    "\"Name (singular)\"": "Airgun",
+    "\"Name (PascalCase)\"": "Airgun",
+    "\"Name (SNAKE_CASE)\"": "AIRGUN"
+  },
+  {
+    "ID": "470",
+    "\"Name (singular)\"": "\"Airgun Scope\"",
+    "\"Name (PascalCase)\"": "AirgunScope",
+    "\"Name (SNAKE_CASE)\"": "AIRGUN_SCOPE"
+  },
+  {
+    "ID": "467",
+    "\"Name (singular)\"": "\"Album Cover\"",
+    "\"Name (PascalCase)\"": "AlbumCover",
+    "\"Name (SNAKE_CASE)\"": "ALBUM_COVER"
+  },
+  {
+    "ID": "451",
+    "\"Name (singular)\"": "\"Aloe Vera\"",
+    "\"Name (PascalCase)\"": "AloeVera",
+    "\"Name (SNAKE_CASE)\"": "ALOE_VERA"
+  },
+  {
+    "ID": "596",
+    "\"Name (singular)\"": "\"AloeVera Seed\"",
+    "\"Name (PascalCase)\"": "AloeVeraSeed",
+    "\"Name (SNAKE_CASE)\"": "ALOE_VERA_SEED"
+  },
+  {
+    "ID": "454",
+    "\"Name (singular)\"": "Arrowleaf",
+    "\"Name (PascalCase)\"": "ArrowleafBalsamroot",
+    "\"Name (SNAKE_CASE)\"": "ARROWLEAF"
+  },
+  {
+    "ID": "597",
+    "\"Name (singular)\"": "\"Arrowleaf Seed\"",
+    "\"Name (PascalCase)\"": "ArrowleafSeed",
+    "\"Name (SNAKE_CASE)\"": "ARROWLEAF_SEED"
+  },
+  {
+    "ID": "402",
+    "\"Name (singular)\"": "Backpack",
+    "\"Name (PascalCase)\"": "Backpack",
+    "\"Name (SNAKE_CASE)\"": "BACKPACK"
+  },
+  {
+    "ID": "527",
+    "\"Name (singular)\"": "Batteries",
+    "\"Name (PascalCase)\"": "Batteries",
+    "\"Name (SNAKE_CASE)\"": "BATTERIES"
+  },
+  {
+    "ID": "458",
+    "\"Name (singular)\"": "\"Battery Charger\"",
+    "\"Name (PascalCase)\"": "BatteryCharger",
+    "\"Name (SNAKE_CASE)\"": "BATTERY_CHARGER"
+  },
+  {
+    "ID": "460",
+    "\"Name (singular)\"": "\"Battery Pack\"",
+    "\"Name (PascalCase)\"": "BatteryPack",
+    "\"Name (SNAKE_CASE)\"": "BATTERY_PACK"
+  },
+  {
+    "ID": "341",
+    "\"Name (singular)\"": "Binoculars",
+    "\"Name (PascalCase)\"": "Binoculars",
+    "\"Name (SNAKE_CASE)\"": "BINOCULARS"
+  },
+  {
+    "ID": "595",
+    "\"Name (singular)\"": "Blackberries",
+    "\"Name (PascalCase)\"": "Blackberries",
+    "\"Name (SNAKE_CASE)\"": "BLACKBERRIES"
+  },
+  {
+    "ID": "598",
+    "\"Name (singular)\"": "\"Blackberry Seed\"",
+    "\"Name (PascalCase)\"": "BlackberrySeed",
+    "\"Name (SNAKE_CASE)\"": "BLACKBERRY_SEED"
+  },
+  {
+    "ID": "488",
+    "\"Name (singular)\"": "\"Blue TShirt\"",
+    "\"Name (PascalCase)\"": "BlueTShirt",
+    "\"Name (SNAKE_CASE)\"": "BLUE_TSHIRT"
+  },
+  {
+    "ID": "445",
+    "\"Name (singular)\"": "Blueberries",
+    "\"Name (PascalCase)\"": "Blueberries",
+    "\"Name (SNAKE_CASE)\"": "BLUEBERRIES"
+  },
+  {
+    "ID": "599",
+    "\"Name (singular)\"": "\"Blueberry Seed\"",
+    "\"Name (PascalCase)\"": "BlueberrySeed",
+    "\"Name (SNAKE_CASE)\"": "BLUEBERRY_SEED"
+  },
+  {
+    "ID": "581",
+    "\"Name (singular)\"": "BlueprintBirdHouse",
+    "\"Name (PascalCase)\"": "BlueprintBirdHouse",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_BIRD_HOUSE"
+  },
+  {
+    "ID": "579",
+    "\"Name (singular)\"": "BlueprintBoneChair",
+    "\"Name (PascalCase)\"": "BlueprintBoneChair",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_BONE_CHAIR"
+  },
+  {
+    "ID": "588",
+    "\"Name (singular)\"": "BlueprintBoneChandelier",
+    "\"Name (PascalCase)\"": "BlueprintBoneChandelier",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_BONE_CHANDELIER"
+  },
+  {
+    "ID": "552",
+    "\"Name (singular)\"": "S.C.R.E.W.",
+    "\"Name (PascalCase)\"": "BlueprintBook",
+    "\"Name (SNAKE_CASE)\"": "S_C_R_E_W"
+  },
+  {
+    "ID": "530",
+    "\"Name (singular)\"": "\"Drying Rack Blueprint\"",
+    "\"Name (PascalCase)\"": "BlueprintDryingRack",
+    "\"Name (SNAKE_CASE)\"": "DRYING_RACK_BLUEPRINT"
+  },
+  {
+    "ID": "582",
+    "\"Name (singular)\"": "BlueprintFishTrap",
+    "\"Name (PascalCase)\"": "BlueprintFishTrap",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_FISH_TRAP"
+  },
+  {
+    "ID": "625",
+    "\"Name (singular)\"": "BlueprintHangingSkullLight",
+    "\"Name (PascalCase)\"": "BlueprintHangingSkullLight",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "584",
+    "\"Name (singular)\"": "BlueprintMannequin",
+    "\"Name (PascalCase)\"": "BlueprintMannequin",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_MANNEQUIN"
+  },
+  {
+    "ID": "587",
+    "\"Name (singular)\"": "BlueprintPlanterFloor",
+    "\"Name (PascalCase)\"": "BlueprintPlanterFloor",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_PLANTER_FLOOR"
+  },
+  {
+    "ID": "586",
+    "\"Name (singular)\"": "BlueprintPlanterWallJ",
+    "\"Name (PascalCase)\"": "BlueprintPlanterWall",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_PLANTER_WALL"
+  },
+  {
+    "ID": "622",
+    "\"Name (singular)\"": "BlueprintRockPath",
+    "\"Name (PascalCase)\"": "BlueprintRockPath",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "585",
+    "\"Name (singular)\"": "BlueprintScarecrow",
+    "\"Name (PascalCase)\"": "BlueprintScarecrow",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_SCARECROW"
+  },
+  {
+    "ID": "621",
+    "\"Name (singular)\"": "BlueprintShelf",
+    "\"Name (PascalCase)\"": "BlueprintShelf",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "591",
+    "\"Name (singular)\"": "BlueprintSmallLogCabin",
+    "\"Name (PascalCase)\"": "BlueprintSmallLogCabin",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_SMALL_LOG_CABIN"
+  },
+  {
+    "ID": "532",
+    "\"Name (singular)\"": "\"Stick Bed Blueprint\"",
+    "\"Name (PascalCase)\"": "BlueprintStickBed",
+    "\"Name (SNAKE_CASE)\"": "STICK_BED_BLUEPRINT"
+  },
+  {
+    "ID": "531",
+    "\"Name (singular)\"": "\"Stick Chair Blueprint\"",
+    "\"Name (PascalCase)\"": "BlueprintStickChair",
+    "\"Name (SNAKE_CASE)\"": "STICK_CHAIR_BLUEPRINT"
+  },
+  {
+    "ID": "580",
+    "\"Name (singular)\"": "BlueprintStickLadderD",
+    "\"Name (PascalCase)\"": "BlueprintStickLadder",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_STICK_LADDER"
+  },
+  {
+    "ID": "608",
+    "\"Name (singular)\"": "BlueprintStorageBones",
+    "\"Name (PascalCase)\"": "BlueprintStorageBones",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_STORAGE_BONES"
+  },
+  {
+    "ID": "583",
+    "\"Name (singular)\"": "BlueprintStorageBox",
+    "\"Name (PascalCase)\"": "BlueprintStorageBox",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_STORAGE_BOX"
+  },
+  {
+    "ID": "609",
+    "\"Name (singular)\"": "BlueprintStorageLogsa",
+    "\"Name (PascalCase)\"": "BlueprintStorageLogs",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_STORAGE_LOGS"
+  },
+  {
+    "ID": "607",
+    "\"Name (singular)\"": "BlueprintStorageRocks",
+    "\"Name (PascalCase)\"": "BlueprintStorageRocks",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_STORAGE_ROCKS"
+  },
+  {
+    "ID": "610",
+    "\"Name (singular)\"": "BlueprintStorageSticks",
+    "\"Name (PascalCase)\"": "BlueprintStorageSticks",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_STORAGE_STICKS"
+  },
+  {
+    "ID": "620",
+    "\"Name (singular)\"": "BlueprintTable",
+    "\"Name (PascalCase)\"": "BlueprintTable",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "549",
+    "\"Name (singular)\"": "\"Bone Maker Blueprint\"",
+    "\"Name (PascalCase)\"": "BlueprintTrapBoneMaker",
+    "\"Name (SNAKE_CASE)\"": "BONE_MAKER_BLUEPRINT"
+  },
+  {
+    "ID": "550",
+    "\"Name (singular)\"": "\"Fly Swatter Blueprint\"",
+    "\"Name (PascalCase)\"": "BlueprintTrapFlySwatter",
+    "\"Name (SNAKE_CASE)\"": "FLY_SWATTER_BLUEPRINT"
+  },
+  {
+    "ID": "551",
+    "\"Name (singular)\"": "\"Small Animal Catcher Blueprint\"",
+    "\"Name (PascalCase)\"": "BlueprintTrapSmallAnimalCatcher",
+    "\"Name (SNAKE_CASE)\"": "SMALL_ANIMAL_CATCHER_BLUEPRINT"
+  },
+  {
+    "ID": "623",
+    "\"Name (singular)\"": "BlueprintWallShelf",
+    "\"Name (PascalCase)\"": "BlueprintWallShelf",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "624",
+    "\"Name (singular)\"": "BlueprintWallTorch",
+    "\"Name (PascalCase)\"": "BlueprintWallTorch",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "533",
+    "\"Name (singular)\"": "BlueprintWeaponRack",
+    "\"Name (PascalCase)\"": "BlueprintWeaponRack",
+    "\"Name (SNAKE_CASE)\"": "BLUEPRINT_WEAPON_RACK"
+  },
+  {
+    "ID": "405",
+    "\"Name (singular)\"": "Bone",
+    "\"Name (PascalCase)\"": "Bone",
+    "\"Name (SNAKE_CASE)\"": "BONE"
+  },
+  {
+    "ID": "494",
+    "\"Name (singular)\"": "\"Bone Armour\"",
+    "\"Name (PascalCase)\"": "BoneArmour",
+    "\"Name (SNAKE_CASE)\"": "BONE_ARMOUR"
+  },
+  {
+    "ID": "364",
+    "\"Name (singular)\"": "\"Shotgun Buckshot\"",
+    "\"Name (PascalCase)\"": "BuckshotAmmo",
+    "\"Name (SNAKE_CASE)\"": "SHOTGUN_BUCKSHOT"
+  },
+  {
+    "ID": "509",
+    "\"Name (singular)\"": "\"Holosprings Pamphlet\"",
+    "\"Name (PascalCase)\"": "BunkerPamphlet",
+    "\"Name (SNAKE_CASE)\"": "HOLOSPRINGS_PAMPHLET"
+  },
+  {
+    "ID": "420",
+    "\"Name (singular)\"": "\"C4 Brick\"",
+    "\"Name (PascalCase)\"": "C4Brick",
+    "\"Name (SNAKE_CASE)\"": "C4_BRICK"
+  },
+  {
+    "ID": "432",
+    "\"Name (singular)\"": "\"Can Opener\"",
+    "\"Name (PascalCase)\"": "CanOpener",
+    "\"Name (SNAKE_CASE)\"": "CAN_OPENER"
+  },
+  {
+    "ID": "434",
+    "\"Name (singular)\"": "\"Canned Food\"",
+    "\"Name (PascalCase)\"": "CannedFood",
+    "\"Name (SNAKE_CASE)\"": "CANNED_FOOD"
+  },
+  {
+    "ID": "464",
+    "\"Name (singular)\"": "\"Cat Food\"",
+    "\"Name (PascalCase)\"": "CatFood",
+    "\"Name (SNAKE_CASE)\"": "CAT_FOOD"
+  },
+  {
+    "ID": "425",
+    "\"Name (singular)\"": "\"Crunchie Wunchies\"",
+    "\"Name (PascalCase)\"": "CerealBox",
+    "\"Name (SNAKE_CASE)\"": "CRUNCHIE_WUNCHIES"
+  },
+  {
+    "ID": "465",
+    "\"Name (singular)\"": "Chicory",
+    "\"Name (PascalCase)\"": "Chicory",
+    "\"Name (SNAKE_CASE)\"": "CHICORY"
+  },
+  {
+    "ID": "605",
+    "\"Name (singular)\"": "\"Chicory Seed\"",
+    "\"Name (PascalCase)\"": "ChicorySeed",
+    "\"Name (SNAKE_CASE)\"": "CHICORY_SEED"
+  },
+  {
+    "ID": "416",
+    "\"Name (singular)\"": "\"Circuit Board\"",
+    "\"Name (PascalCase)\"": "CircuitBoard",
+    "\"Name (SNAKE_CASE)\"": "CIRCUIT_BOARD"
+  },
+  {
+    "ID": "478",
+    "\"Name (singular)\"": "\"Climbing Axe\"",
+    "\"Name (PascalCase)\"": "ClimbingAxe",
+    "\"Name (SNAKE_CASE)\"": "CLIMBING_AXE"
+  },
+  {
+    "ID": "415",
+    "\"Name (singular)\"": "Cloth",
+    "\"Name (PascalCase)\"": "Cloth",
+    "\"Name (SNAKE_CASE)\"": "CLOTH"
+  },
+  {
+    "ID": "502",
+    "\"Name (singular)\"": "Coins",
+    "\"Name (PascalCase)\"": "Coins",
+    "\"Name (SNAKE_CASE)\"": "COINS"
+  },
+  {
+    "ID": "380",
+    "\"Name (singular)\"": "\"Utility Knife\"",
+    "\"Name (PascalCase)\"": "CombatKnife",
+    "\"Name (SNAKE_CASE)\"": "UTILITY_KNIFE"
+  },
+  {
+    "ID": "355",
+    "\"Name (singular)\"": "\"Compact Pistol\"",
+    "\"Name (PascalCase)\"": "CompactPistol",
+    "\"Name (SNAKE_CASE)\"": "COMPACT_PISTOL"
+  },
+  {
+    "ID": "376",
+    "\"Name (singular)\"": "\"Pistol Rail\"",
+    "\"Name (PascalCase)\"": "CompactPistolRail",
+    "\"Name (SNAKE_CASE)\"": "PISTOL_RAIL"
+  },
+  {
+    "ID": "514",
+    "\"Name (singular)\"": "\"Contact Spring Trigger\"",
+    "\"Name (PascalCase)\"": "ContactSpringTrigger",
+    "\"Name (SNAKE_CASE)\"": "CONTACT_SPRING_TRIGGER"
+  },
+  {
+    "ID": "511",
+    "\"Name (singular)\"": "\"Contact Trigger\"",
+    "\"Name (PascalCase)\"": "ContactTrigger",
+    "\"Name (SNAKE_CASE)\"": "CONTACT_TRIGGER"
+  },
+  {
+    "ID": "517",
+    "\"Name (singular)\"": "\"Cooking Pot\"",
+    "\"Name (PascalCase)\"": "CookingPot",
+    "\"Name (SNAKE_CASE)\"": "COOKING_POT"
+  },
+  {
+    "ID": "507",
+    "\"Name (singular)\"": "\"Crafted Arrow\"",
+    "\"Name (PascalCase)\"": "CraftedArrow",
+    "\"Name (SNAKE_CASE)\"": "CRAFTED_ARROW"
+  },
+  {
+    "ID": "443",
+    "\"Name (singular)\"": "\"Crafted Bow\"",
+    "\"Name (PascalCase)\"": "CraftedBow",
+    "\"Name (SNAKE_CASE)\"": "CRAFTED_BOW"
+  },
+  {
+    "ID": "477",
+    "\"Name (singular)\"": "\"Crafted Club\"",
+    "\"Name (PascalCase)\"": "CraftedClub",
+    "\"Name (SNAKE_CASE)\"": "CRAFTED_CLUB"
+  },
+  {
+    "ID": "474",
+    "\"Name (singular)\"": "\"Crafted Spear\"",
+    "\"Name (PascalCase)\"": "CraftedSpear",
+    "\"Name (SNAKE_CASE)\"": "CRAFTED_SPEAR"
+  },
+  {
+    "ID": "593",
+    "\"Name (singular)\"": "\"Creepy Armour\"",
+    "\"Name (PascalCase)\"": "CreepyArmour",
+    "\"Name (SNAKE_CASE)\"": "CREEPY_ARMOUR"
+  },
+  {
+    "ID": "592",
+    "\"Name (singular)\"": "\"Creepy Skin\"",
+    "\"Name (PascalCase)\"": "CreepySkin",
+    "\"Name (SNAKE_CASE)\"": "CREEPY_SKIN"
+  },
+  {
+    "ID": "468",
+    "\"Name (singular)\"": "Cross",
+    "\"Name (PascalCase)\"": "Cross",
+    "\"Name (SNAKE_CASE)\"": "CROSS"
+  },
+  {
+    "ID": "365",
+    "\"Name (singular)\"": "Crossbow",
+    "\"Name (PascalCase)\"": "Crossbow",
+    "\"Name (SNAKE_CASE)\"": "CROSSBOW"
+  },
+  {
+    "ID": "368",
+    "\"Name (singular)\"": "\"Crossbow Bolt\"",
+    "\"Name (PascalCase)\"": "CrossbowAmmoBolt",
+    "\"Name (SNAKE_CASE)\"": "CROSSBOW_BOLT"
+  },
+  {
+    "ID": "384",
+    "\"Name (singular)\"": "\"Crossbow Quiver\"",
+    "\"Name (PascalCase)\"": "CrossbowQuiverMod",
+    "\"Name (SNAKE_CASE)\"": "CROSSBOW_QUIVER"
+  },
+  {
+    "ID": "472",
+    "\"Name (singular)\"": "\"Deer Hide\"",
+    "\"Name (PascalCase)\"": "DeerHide",
+    "\"Name (SNAKE_CASE)\"": "DEER_HIDE"
+  },
+  {
+    "ID": "519",
+    "\"Name (singular)\"": "\"Deer Hide Armour\"",
+    "\"Name (PascalCase)\"": "DeerHideArmour",
+    "\"Name (SNAKE_CASE)\"": "DEER_HIDE_ARMOUR"
+  },
+  {
+    "ID": "449",
+    "\"Name (singular)\"": "DevilsClub",
+    "\"Name (PascalCase)\"": "DevilsClub",
+    "\"Name (SNAKE_CASE)\"": "DEVILS_CLUB"
+  },
+  {
+    "ID": "600",
+    "\"Name (singular)\"": "\"DevilsClub Seed\"",
+    "\"Name (PascalCase)\"": "DevilsClubSeed",
+    "\"Name (SNAKE_CASE)\"": "DEVILS_CLUB_SEED"
+  },
+  {
+    "ID": "419",
+    "\"Name (singular)\"": "\"Duct Tape\"",
+    "\"Name (PascalCase)\"": "DuctTape",
+    "\"Name (SNAKE_CASE)\"": "DUCT_TAPE"
+  },
+  {
+    "ID": "539",
+    "\"Name (singular)\"": "\"Astrology Email Pt 1\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutAstrologyA",
+    "\"Name (SNAKE_CASE)\"": "ASTROLOGY_EMAIL_PT_1"
+  },
+  {
+    "ID": "540",
+    "\"Name (singular)\"": "\"Astrology Email Pt 2\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutAstrologyB",
+    "\"Name (SNAKE_CASE)\"": "ASTROLOGY_EMAIL_PT_2"
+  },
+  {
+    "ID": "541",
+    "\"Name (singular)\"": "\"Astrology Email Pt 3\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutAstrologyC",
+    "\"Name (SNAKE_CASE)\"": "ASTROLOGY_EMAIL_PT_3"
+  },
+  {
+    "ID": "545",
+    "\"Name (singular)\"": "\"Ballet Email\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutBalletA",
+    "\"Name (SNAKE_CASE)\"": "BALLET_EMAIL"
+  },
+  {
+    "ID": "521",
+    "\"Name (singular)\"": "\"Cave Lighting Email\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutCaveLighting",
+    "\"Name (SNAKE_CASE)\"": "CAVE_LIGHTING_EMAIL"
+  },
+  {
+    "ID": "534",
+    "\"Name (singular)\"": "\"Golf Email Pt 1\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutGolfA",
+    "\"Name (SNAKE_CASE)\"": "GOLF_EMAIL_PT_1"
+  },
+  {
+    "ID": "535",
+    "\"Name (singular)\"": "\"Golf Email Pt 2\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutGolfB",
+    "\"Name (SNAKE_CASE)\"": "GOLF_EMAIL_PT_2"
+  },
+  {
+    "ID": "536",
+    "\"Name (singular)\"": "\"Golf Email Pt 3\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutGolfC",
+    "\"Name (SNAKE_CASE)\"": "GOLF_EMAIL_PT_3"
+  },
+  {
+    "ID": "537",
+    "\"Name (singular)\"": "\"Golf Email Pt 4\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutGolfD",
+    "\"Name (SNAKE_CASE)\"": "GOLF_EMAIL_PT_4"
+  },
+  {
+    "ID": "614",
+    "\"Name (singular)\"": "Email",
+    "\"Name (PascalCase)\"": "EmailPrintoutGovernmentA",
+    "\"Name (SNAKE_CASE)\"": "EMAIL_GOVERNMENT_A"
+  },
+  {
+    "ID": "615",
+    "\"Name (singular)\"": "Email",
+    "\"Name (PascalCase)\"": "EmailPrintoutGovernmentB",
+    "\"Name (SNAKE_CASE)\"": "EMAIL_GOVERNMENT_B"
+  },
+  {
+    "ID": "616",
+    "\"Name (singular)\"": "Email",
+    "\"Name (PascalCase)\"": "EmailPrintoutGovernmentC",
+    "\"Name (SNAKE_CASE)\"": "EMAIL_GOVERNMENT_C"
+  },
+  {
+    "ID": "528",
+    "\"Name (singular)\"": "\"MrPuffy Financials\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutMrPuffyFinancial",
+    "\"Name (SNAKE_CASE)\"": "MR_PUFFY_FINANCIALS"
+  },
+  {
+    "ID": "526",
+    "\"Name (singular)\"": "\"Mr Puffy Will\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutMrPuffyWill",
+    "\"Name (SNAKE_CASE)\"": "MR_PUFFY_WILL"
+  },
+  {
+    "ID": "538",
+    "\"Name (singular)\"": "\"Painting Email\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutPaintingA",
+    "\"Name (SNAKE_CASE)\"": "PAINTING_EMAIL"
+  },
+  {
+    "ID": "542",
+    "\"Name (singular)\"": "\"Politician Email Pt 1\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutPoliticianA",
+    "\"Name (SNAKE_CASE)\"": "POLITICIAN_EMAIL_PT_1"
+  },
+  {
+    "ID": "543",
+    "\"Name (singular)\"": "\"Politician Email Pt 2\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutPoliticianB",
+    "\"Name (SNAKE_CASE)\"": "POLITICIAN_EMAIL_PT_2"
+  },
+  {
+    "ID": "544",
+    "\"Name (singular)\"": "\"Politician Email Pt 3\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutPoliticianC",
+    "\"Name (SNAKE_CASE)\"": "POLITICIAN_EMAIL_PT_3"
+  },
+  {
+    "ID": "546",
+    "\"Name (singular)\"": "\"Squeaky Shoes Email Pt 1\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutSqueakyShoesA",
+    "\"Name (SNAKE_CASE)\"": "SQUEAKY_SHOES_EMAIL_PT_1"
+  },
+  {
+    "ID": "547",
+    "\"Name (singular)\"": "\"Squeaky Shoes Email Pt 2\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutSqueakyShoesB",
+    "\"Name (SNAKE_CASE)\"": "SQUEAKY_SHOES_EMAIL_PT_2"
+  },
+  {
+    "ID": "548",
+    "\"Name (singular)\"": "\"Squeaky Shoes Email Pt 3\"",
+    "\"Name (PascalCase)\"": "EmailPrintoutSqueakyShoesC",
+    "\"Name (SNAKE_CASE)\"": "SQUEAKY_SHOES_EMAIL_PT_3"
+  },
+  {
+    "ID": "483",
+    "\"Name (singular)\"": "\"Emergency Pack\"",
+    "\"Name (PascalCase)\"": "EmergencyPack",
+    "\"Name (SNAKE_CASE)\"": "EMERGENCY_PACK"
+  },
+  {
+    "ID": "441",
+    "\"Name (singular)\"": "\"Energy Bar\"",
+    "\"Name (PascalCase)\"": "EnergyBar",
+    "\"Name (SNAKE_CASE)\"": "ENERGY_BAR"
+  },
+  {
+    "ID": "439",
+    "\"Name (singular)\"": "\"Energy Drink\"",
+    "\"Name (PascalCase)\"": "EnergyDrink",
+    "\"Name (SNAKE_CASE)\"": "ENERGY_DRINK"
+  },
+  {
+    "ID": "461",
+    "\"Name (singular)\"": "\"Energy Mix\"",
+    "\"Name (PascalCase)\"": "EnergyMix",
+    "\"Name (SNAKE_CASE)\"": "ENERGY_MIX"
+  },
+  {
+    "ID": "462",
+    "\"Name (singular)\"": "\"Energy Mix+\"",
+    "\"Name (PascalCase)\"": "EnergyMixPlus",
+    "\"Name (SNAKE_CASE)\"": "SUPER_ENERGY_MIX"
+  },
+  {
+    "ID": "479",
+    "\"Name (singular)\"": "Feather",
+    "\"Name (PascalCase)\"": "Feather",
+    "\"Name (SNAKE_CASE)\"": "FEATHER"
+  },
+  {
+    "ID": "431",
+    "\"Name (singular)\"": "\"Firefighter Axe\"",
+    "\"Name (PascalCase)\"": "FireAxe",
+    "\"Name (SNAKE_CASE)\"": "FIREFIGHTER_AXE"
+  },
+  {
+    "ID": "453",
+    "\"Name (singular)\"": "Fireweed",
+    "\"Name (PascalCase)\"": "Fireweed",
+    "\"Name (SNAKE_CASE)\"": "FIREWEED"
+  },
+  {
+    "ID": "601",
+    "\"Name (singular)\"": "\"Fireweed Seed\"",
+    "\"Name (PascalCase)\"": "FireweedSeed",
+    "\"Name (SNAKE_CASE)\"": "FIREWEED_SEED"
+  },
+  {
+    "ID": "436",
+    "\"Name (singular)\"": "Fish",
+    "\"Name (PascalCase)\"": "Fish",
+    "\"Name (SNAKE_CASE)\"": "FISH"
+  },
+  {
+    "ID": "440",
+    "\"Name (singular)\"": "Flare",
+    "\"Name (PascalCase)\"": "Flare",
+    "\"Name (SNAKE_CASE)\"": "FLARE"
+  },
+  {
+    "ID": "471",
+    "\"Name (singular)\"": "Flashlight",
+    "\"Name (PascalCase)\"": "Flashlight",
+    "\"Name (SNAKE_CASE)\"": "FLASHLIGHT"
+  },
+  {
+    "ID": "378",
+    "\"Name (singular)\"": "\"Flashlight Attachment\"",
+    "\"Name (PascalCase)\"": "FlashlightMod",
+    "\"Name (SNAKE_CASE)\"": "FLASHLIGHT_ATTACHMENT"
+  },
+  {
+    "ID": "475",
+    "\"Name (singular)\"": "Flask",
+    "\"Name (PascalCase)\"": "Flask",
+    "\"Name (SNAKE_CASE)\"": "FLASK"
+  },
+  {
+    "ID": "463",
+    "\"Name (singular)\"": "Flippers",
+    "\"Name (PascalCase)\"": "Flippers",
+    "\"Name (SNAKE_CASE)\"": "FLIPPERS"
+  },
+  {
+    "ID": "400",
+    "\"Name (singular)\"": "\"Fly Amanita\"",
+    "\"Name (PascalCase)\"": "FlyAmanitaMushroom",
+    "\"Name (SNAKE_CASE)\"": "FLY_AMANITA"
+  },
+  {
+    "ID": "569",
+    "\"Name (singular)\"": "\"Brain Bite\"",
+    "\"Name (PascalCase)\"": "FoodCubeBrain",
+    "\"Name (SNAKE_CASE)\"": "BRAIN_BITE"
+  },
+  {
+    "ID": "570",
+    "\"Name (singular)\"": "\"Steak Bite\"",
+    "\"Name (PascalCase)\"": "FoodCubeSteak",
+    "\"Name (SNAKE_CASE)\"": "STEAK_BITE"
+  },
+  {
+    "ID": "571",
+    "\"Name (singular)\"": "\"Steak and Bacon Bite\"",
+    "\"Name (PascalCase)\"": "FoodCubeSteakAndBacon",
+    "\"Name (SNAKE_CASE)\"": "STEAK_AND_BACON_BITE"
+  },
+  {
+    "ID": "497",
+    "\"Name (singular)\"": "\"Food Tray\"",
+    "\"Name (PascalCase)\"": "FoodTray",
+    "\"Name (SNAKE_CASE)\"": "FOOD_TRAY"
+  },
+  {
+    "ID": "512",
+    "\"Name (singular)\"": "\"Filled Food Tray\"",
+    "\"Name (PascalCase)\"": "FoodTrayFilled",
+    "\"Name (SNAKE_CASE)\"": "FILLED_FOOD_TRAY"
+  },
+  {
+    "ID": "529",
+    "\"Name (singular)\"": "\"GPS Locator\"",
+    "\"Name (PascalCase)\"": "GPSLocator",
+    "\"Name (SNAKE_CASE)\"": "GPS_LOCATOR"
+  },
+  {
+    "ID": "412",
+    "\"Name (singular)\"": "\"GPS Tracker\"",
+    "\"Name (PascalCase)\"": "GPSTracker",
+    "\"Name (SNAKE_CASE)\"": "GPS_TRACKER"
+  },
+  {
+    "ID": "498",
+    "\"Name (singular)\"": "\"GRABS Laser Pointer\"",
+    "\"Name (PascalCase)\"": "GRABSLaserPointer",
+    "\"Name (SNAKE_CASE)\"": "GRABS_LASER_POINTER"
+  },
+  {
+    "ID": "435",
+    "\"Name (singular)\"": "\"Gold Mask\"",
+    "\"Name (PascalCase)\"": "GoldMask",
+    "\"Name (SNAKE_CASE)\"": "GOLD_MASK"
+  },
+  {
+    "ID": "572",
+    "\"Name (singular)\"": "\"Golden Armour\"",
+    "\"Name (PascalCase)\"": "GoldenArmour",
+    "\"Name (SNAKE_CASE)\"": "GOLDEN_ARMOUR"
+  },
+  {
+    "ID": "524",
+    "\"Name (singular)\"": "\"Golf Ball\"",
+    "\"Name (PascalCase)\"": "GolfBall",
+    "\"Name (SNAKE_CASE)\"": "GOLF_BALL"
+  },
+  {
+    "ID": "525",
+    "\"Name (singular)\"": "Putter",
+    "\"Name (PascalCase)\"": "GolfPutter",
+    "\"Name (SNAKE_CASE)\"": "PUTTER"
+  },
+  {
+    "ID": "351",
+    "\"Name (singular)\"": "\"Grab Bag\"",
+    "\"Name (PascalCase)\"": "GrabBag",
+    "\"Name (SNAKE_CASE)\"": "GRAB_BAG"
+  },
+  {
+    "ID": "381",
+    "\"Name (singular)\"": "Grenade",
+    "\"Name (PascalCase)\"": "Grenade",
+    "\"Name (SNAKE_CASE)\"": "GRENADE"
+  },
+  {
+    "ID": "382",
+    "\"Name (singular)\"": "GrenadeAmmo",
+    "\"Name (PascalCase)\"": "GrenadeAmmo",
+    "\"Name (SNAKE_CASE)\"": "GRENADE_AMMO"
+  },
+  {
+    "ID": "594",
+    "\"Name (singular)\"": "\"Guarana Berries\"",
+    "\"Name (PascalCase)\"": "GuaranaBerries",
+    "\"Name (SNAKE_CASE)\"": "GUARANA_BERRIES"
+  },
+  {
+    "ID": "602",
+    "\"Name (singular)\"": "\"Guarana Seed\"",
+    "\"Name (PascalCase)\"": "GuaranaSeed",
+    "\"Name (SNAKE_CASE)\"": "GUARANA_SEED"
+  },
+  {
+    "ID": "340",
+    "\"Name (singular)\"": "Guitar",
+    "\"Name (PascalCase)\"": "Guitar",
+    "\"Name (SNAKE_CASE)\"": "GUITAR"
+  },
+  {
+    "ID": "626",
+    "\"Name (singular)\"": "\"Hang Glider\"",
+    "\"Name (PascalCase)\"": "HangGlider",
+    "\"Name (SNAKE_CASE)\"": "HANG_GLIDER"
+  },
+  {
+    "ID": "455",
+    "\"Name (singular)\"": "\"Health Mix\"",
+    "\"Name (PascalCase)\"": "HealthMix",
+    "\"Name (SNAKE_CASE)\"": "HEALTH_MIX"
+  },
+  {
+    "ID": "456",
+    "\"Name (singular)\"": "\"Health Mix+\"",
+    "\"Name (PascalCase)\"": "HealthMixPlus",
+    "\"Name (SNAKE_CASE)\"": "SUPER_HEALTH_MIX"
+  },
+  {
+    "ID": "562",
+    "\"Name (singular)\"": "HolovilleNoticeA",
+    "\"Name (PascalCase)\"": "HolovilleNoticeA",
+    "\"Name (SNAKE_CASE)\"": "HOLOVILLE_NOTICE_A"
+  },
+  {
+    "ID": "563",
+    "\"Name (singular)\"": "HolovilleNoticeB",
+    "\"Name (PascalCase)\"": "HolovilleNoticeB",
+    "\"Name (SNAKE_CASE)\"": "HOLOVILLE_NOTICE_B"
+  },
+  {
+    "ID": "564",
+    "\"Name (singular)\"": "HolovilleNoticeC",
+    "\"Name (PascalCase)\"": "HolovilleNoticeC",
+    "\"Name (SNAKE_CASE)\"": "HOLOVILLE_NOTICE_C"
+  },
+  {
+    "ID": "565",
+    "\"Name (singular)\"": "HolovilleNoticeD",
+    "\"Name (PascalCase)\"": "HolovilleNoticeD",
+    "\"Name (SNAKE_CASE)\"": "HOLOVILLE_NOTICE_D"
+  },
+  {
+    "ID": "490",
+    "\"Name (singular)\"": "Hoodie",
+    "\"Name (PascalCase)\"": "Hoodie",
+    "\"Name (SNAKE_CASE)\"": "HOODIE"
+  },
+  {
+    "ID": "450",
+    "\"Name (singular)\"": "Horsetail",
+    "\"Name (PascalCase)\"": "Horsetail",
+    "\"Name (SNAKE_CASE)\"": "HORSETAIL"
+  },
+  {
+    "ID": "603",
+    "\"Name (singular)\"": "\"Horsetail Seed\"",
+    "\"Name (PascalCase)\"": "HorsetailSeed",
+    "\"Name (SNAKE_CASE)\"": "HORSETAIL_SEED"
+  },
+  {
+    "ID": "399",
+    "\"Name (singular)\"": "\"Hydnum Repandum\"",
+    "\"Name (PascalCase)\"": "HydnumRepandumMushroom",
+    "\"Name (SNAKE_CASE)\"": "HYDNUM_REPANDUM"
+  },
+  {
+    "ID": "367",
+    "\"Name (singular)\"": "Katana",
+    "\"Name (PascalCase)\"": "Katana",
+    "\"Name (SNAKE_CASE)\"": "KATANA"
+  },
+  {
+    "ID": "567",
+    "\"Name (singular)\"": "\"Guest Key\"",
+    "\"Name (PascalCase)\"": "KeyCardGuest",
+    "\"Name (SNAKE_CASE)\"": "GUEST_KEY"
+  },
+  {
+    "ID": "566",
+    "\"Name (singular)\"": "\"Maintenance Key\"",
+    "\"Name (PascalCase)\"": "KeyCardMaintenance",
+    "\"Name (SNAKE_CASE)\"": "MAINTENANCE_KEY"
+  },
+  {
+    "ID": "568",
+    "\"Name (singular)\"": "\"VIP Key\"",
+    "\"Name (PascalCase)\"": "KeyCardVIP",
+    "\"Name (SNAKE_CASE)\"": "VIP_KEY"
+  },
+  {
+    "ID": "398",
+    "\"Name (singular)\"": "\"King Oyster\"",
+    "\"Name (PascalCase)\"": "KingOysterMushroom",
+    "\"Name (SNAKE_CASE)\"": "KING_OYSTER"
+  },
+  {
+    "ID": "505",
+    "\"Name (singular)\"": "\"Laser Measure Tool\"",
+    "\"Name (PascalCase)\"": "LaserMeasureTool",
+    "\"Name (SNAKE_CASE)\"": "LASER_MEASURE_TOOL"
+  },
+  {
+    "ID": "375",
+    "\"Name (singular)\"": "\"Laser Sight\"",
+    "\"Name (PascalCase)\"": "LaserSightMod",
+    "\"Name (SNAKE_CASE)\"": "LASER_SIGHT"
+  },
+  {
+    "ID": "484",
+    "\"Name (singular)\"": "Leaf",
+    "\"Name (PascalCase)\"": "Leaf",
+    "\"Name (SNAKE_CASE)\"": "LEAF"
+  },
+  {
+    "ID": "473",
+    "\"Name (singular)\"": "\"Leaf Armour\"",
+    "\"Name (PascalCase)\"": "LeafArmour",
+    "\"Name (SNAKE_CASE)\"": "LEAF_ARMOUR"
+  },
+  {
+    "ID": "493",
+    "\"Name (singular)\"": "\"Leather Jacket\"",
+    "\"Name (PascalCase)\"": "LeatherJacket",
+    "\"Name (SNAKE_CASE)\"": "LEATHER_JACKET"
+  },
+  {
+    "ID": "395",
+    "\"Name (singular)\"": "\"Log Plank\"",
+    "\"Name (PascalCase)\"": "LogPlank",
+    "\"Name (SNAKE_CASE)\"": "LOG_PLANK"
+  },
+  {
+    "ID": "576",
+    "\"Name (singular)\"": "\"Quarter Log plank\"",
+    "\"Name (PascalCase)\"": "QuarterLogPlank",
+    "\"Name (SNAKE_CASE)\"": "QUARTER_LOG_PLANK"
+  },
+  {
+    "ID": "577",
+    "\"Name (singular)\"": "\"Half Log plank\"",
+    "\"Name (PascalCase)\"": "HalfLogPlank",
+    "\"Name (SNAKE_CASE)\"": "HALF_LOG_PLANK"
+  },
+  {
+    "ID": "578",
+    "\"Name (singular)\"": "\"Three Quarter Log Plank\"",
+    "\"Name (PascalCase)\"": "ThreeQuarterLogPlank",
+    "\"Name (SNAKE_CASE)\"": "THREE_QUARTER_LOG_PLANK"
+  },
+  {
+    "ID": "406",
+    "\"Name (singular)\"": "\"Quarter Log\"",
+    "\"Name (PascalCase)\"": "QuarterLog",
+    "\"Name (SNAKE_CASE)\"": "QUARTER_LOG"
+  },
+  {
+    "ID": "408",
+    "\"Name (singular)\"": "\"Half Log\"",
+    "\"Name (PascalCase)\"": "HalfLog",
+    "\"Name (SNAKE_CASE)\"": "HALF_LOG"
+  },
+  {
+    "ID": "409",
+    "\"Name (singular)\"": "\"Three Quarter Log\"",
+    "\"Name (PascalCase)\"": "ThreeQuarterLog",
+    "\"Name (SNAKE_CASE)\"": "THREE_QUARTER_LOG"
+  },
+  {
+    "ID": "78",
+    "\"Name (singular)\"": "Log",
+    "\"Name (PascalCase)\"": "Log_Legacy",
+    "\"Name (SNAKE_CASE)\"": "LOG"
+  },
+  {
+    "ID": "508",
+    "\"Name (singular)\"": "\"Skin Pouch\"",
+    "\"Name (PascalCase)\"": "LootPouch",
+    "\"Name (SNAKE_CASE)\"": "SKIN_POUCH"
+  },
+  {
+    "ID": "359",
+    "\"Name (singular)\"": "Machete",
+    "\"Name (PascalCase)\"": "Machete2",
+    "\"Name (SNAKE_CASE)\"": "MACHETE"
+  },
+  {
+    "ID": "433",
+    "\"Name (singular)\"": "Meat",
+    "\"Name (PascalCase)\"": "Meat",
+    "\"Name (SNAKE_CASE)\"": "MEAT"
+  },
+  {
+    "ID": "356",
+    "\"Name (singular)\"": "\"Modern Axe\"",
+    "\"Name (PascalCase)\"": "ModernAxe",
+    "\"Name (SNAKE_CASE)\"": "MODERN_AXE"
+  },
+  {
+    "ID": "388",
+    "\"Name (singular)\"": "Molotov",
+    "\"Name (PascalCase)\"": "Molotov",
+    "\"Name (SNAKE_CASE)\"": "MOLOTOV"
+  },
+  {
+    "ID": "389",
+    "\"Name (singular)\"": "MolotovAmmo",
+    "\"Name (PascalCase)\"": "MolotovAmmo",
+    "\"Name (SNAKE_CASE)\"": "MOLOTOV_AMMO"
+  },
+  {
+    "ID": "496",
+    "\"Name (singular)\"": "Money",
+    "\"Name (PascalCase)\"": "Money",
+    "\"Name (SNAKE_CASE)\"": "MONEY"
+  },
+  {
+    "ID": "627",
+    "\"Name (singular)\"": "MrPufftonTableCard",
+    "\"Name (PascalCase)\"": "MrPufftonTableCard",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "438",
+    "\"Name (singular)\"": "\"MRE Pack\"",
+    "\"Name (PascalCase)\"": "MrePack",
+    "\"Name (SNAKE_CASE)\"": "MRE_PACK"
+  },
+  {
+    "ID": "628",
+    "\"Name (singular)\"": "MrsPufftonTableCard",
+    "\"Name (PascalCase)\"": "MrsPufftonTableCard",
+    "\"Name (SNAKE_CASE)\"": ""
+  },
+  {
+    "ID": "612",
+    "\"Name (singular)\"": "\"Newspaper Cutout\"",
+    "\"Name (PascalCase)\"": "NewspaperCutout",
+    "\"Name (SNAKE_CASE)\"": "NEWSPAPER_CUTOUT"
+  },
+  {
+    "ID": "613",
+    "\"Name (singular)\"": "\"Newspaper Cutout\"",
+    "\"Name (PascalCase)\"": "NewspaperCutoutOutbid",
+    "\"Name (SNAKE_CASE)\"": "NEWSPAPER_CUTOUT_OUTBID"
+  },
+  {
+    "ID": "354",
+    "\"Name (singular)\"": "\"Night Vision Goggles\"",
+    "\"Name (PascalCase)\"": "NightVisionGoggles",
+    "\"Name (SNAKE_CASE)\"": "NIGHT_VISION_GOGGLES"
+  },
+  {
+    "ID": "423",
+    "\"Name (singular)\"": "\"Novel A\"",
+    "\"Name (PascalCase)\"": "NovelA",
+    "\"Name (SNAKE_CASE)\"": "NOVEL_A"
+  },
+  {
+    "ID": "424",
+    "\"Name (singular)\"": "\"Novel B\"",
+    "\"Name (PascalCase)\"": "NovelB",
+    "\"Name (SNAKE_CASE)\"": "NOVEL_B"
+  },
+  {
+    "ID": "574",
+    "\"Name (singular)\"": "\"Novel C\"",
+    "\"Name (PascalCase)\"": "NovelC",
+    "\"Name (SNAKE_CASE)\"": "NOVEL_C"
+  },
+  {
+    "ID": "575",
+    "\"Name (singular)\"": "\"Novel D\"",
+    "\"Name (PascalCase)\"": "NovelD",
+    "\"Name (SNAKE_CASE)\"": "NOVEL_D"
+  },
+  {
+    "ID": "611",
+    "\"Name (singular)\"": "\"Numbers Printout\"",
+    "\"Name (PascalCase)\"": "NumbersPrintout",
+    "\"Name (SNAKE_CASE)\"": "NUMBERS_PRINTOUT"
+  },
+  {
+    "ID": "491",
+    "\"Name (singular)\"": "Blazer",
+    "\"Name (PascalCase)\"": "OldJacket",
+    "\"Name (SNAKE_CASE)\"": "BLAZER"
+  },
+  {
+    "ID": "466",
+    "\"Name (singular)\"": "Oyster",
+    "\"Name (PascalCase)\"": "Oyster",
+    "\"Name (SNAKE_CASE)\"": "OYSTER"
+  },
+  {
+    "ID": "518",
+    "\"Name (singular)\"": "\"Paper Target\"",
+    "\"Name (PascalCase)\"": "PaperTarget",
+    "\"Name (SNAKE_CASE)\"": "PAPER_TARGET"
+  },
+  {
+    "ID": "437",
+    "\"Name (singular)\"": "Meds",
+    "\"Name (PascalCase)\"": "Pills",
+    "\"Name (SNAKE_CASE)\"": "MEDS"
+  },
+  {
+    "ID": "370",
+    "\"Name (singular)\"": "\"Pistol Ammo\"",
+    "\"Name (PascalCase)\"": "PistolAmmoBox",
+    "\"Name (SNAKE_CASE)\"": "PISTOL_AMMO"
+  },
+  {
+    "ID": "374",
+    "\"Name (singular)\"": "Silencer",
+    "\"Name (PascalCase)\"": "PistolSuppressor",
+    "\"Name (SNAKE_CASE)\"": "SILENCER"
+  },
+  {
+    "ID": "413",
+    "\"Name (singular)\"": "\"Plasma Lighter\"",
+    "\"Name (PascalCase)\"": "PlasmaLighter",
+    "\"Name (SNAKE_CASE)\"": "PLASMA_LIGHTER"
+  },
+  {
+    "ID": "500",
+    "\"Name (singular)\"": "\"Puffy Jacket\"",
+    "\"Name (PascalCase)\"": "PuffyJacket",
+    "\"Name (SNAKE_CASE)\"": "PUFFY_JACKET"
+  },
+  {
+    "ID": "590",
+    "\"Name (singular)\"": "Radio",
+    "\"Name (PascalCase)\"": "Radio",
+    "\"Name (SNAKE_CASE)\"": "RADIO"
+  },
+  {
+    "ID": "421",
+    "\"Name (singular)\"": "\"Ramen Noodles\"",
+    "\"Name (PascalCase)\"": "RamenNoodles",
+    "\"Name (SNAKE_CASE)\"": "RAMEN_NOODLES"
+  },
+  {
+    "ID": "444",
+    "\"Name (singular)\"": "Rebreather",
+    "\"Name (PascalCase)\"": "Rebreather",
+    "\"Name (SNAKE_CASE)\"": "REBREATHER"
+  },
+  {
+    "ID": "391",
+    "\"Name (singular)\"": "\"Red Mask\"",
+    "\"Name (PascalCase)\"": "RedMask",
+    "\"Name (SNAKE_CASE)\"": "RED_MASK"
+  },
+  {
+    "ID": "422",
+    "\"Name (singular)\"": "\"Repair Tool\"",
+    "\"Name (PascalCase)\"": "RepairTool",
+    "\"Name (SNAKE_CASE)\"": "REPAIR_TOOL"
+  },
+  {
+    "ID": "386",
+    "\"Name (singular)\"": "Revolver",
+    "\"Name (PascalCase)\"": "Revolver",
+    "\"Name (SNAKE_CASE)\"": "REVOLVER"
+  },
+  {
+    "ID": "361",
+    "\"Name (singular)\"": "Rifle",
+    "\"Name (PascalCase)\"": "Rifle",
+    "\"Name (SNAKE_CASE)\"": "RIFLE"
+  },
+  {
+    "ID": "387",
+    "\"Name (singular)\"": "RifleAmmo",
+    "\"Name (PascalCase)\"": "RifleAmmo",
+    "\"Name (SNAKE_CASE)\"": "RIFLE_AMMO"
+  },
+  {
+    "ID": "383",
+    "\"Name (singular)\"": "\"Rifle Rail Mod\"",
+    "\"Name (PascalCase)\"": "RifleRailMod",
+    "\"Name (SNAKE_CASE)\"": "RIFLE_RAIL_MOD"
+  },
+  {
+    "ID": "393",
+    "\"Name (singular)\"": "Rock",
+    "\"Name (PascalCase)\"": "Rock",
+    "\"Name (SNAKE_CASE)\"": "ROCK"
+  },
+  {
+    "ID": "403",
+    "\"Name (singular)\"": "Rope",
+    "\"Name (PascalCase)\"": "Rope",
+    "\"Name (SNAKE_CASE)\"": "ROPE"
+  },
+  {
+    "ID": "522",
+    "\"Name (singular)\"": "RopeGun",
+    "\"Name (PascalCase)\"": "RopeGun",
+    "\"Name (SNAKE_CASE)\"": "ROPE_GUN"
+  },
+  {
+    "ID": "447",
+    "\"Name (singular)\"": "Salmonberries",
+    "\"Name (PascalCase)\"": "Salmonberries",
+    "\"Name (SNAKE_CASE)\"": "SALMONBERRIES"
+  },
+  {
+    "ID": "604",
+    "\"Name (singular)\"": "\"Salmonberry Seed\"",
+    "\"Name (PascalCase)\"": "SalmonberrySeed",
+    "\"Name (SNAKE_CASE)\"": "SALMONBERRY_SEED"
+  },
+  {
+    "ID": "377",
+    "\"Name (singular)\"": "Scope",
+    "\"Name (PascalCase)\"": "ScopeMod",
+    "\"Name (SNAKE_CASE)\"": "SCOPE"
+  },
+  {
+    "ID": "480",
+    "\"Name (singular)\"": "\"Severed Arm\"",
+    "\"Name (PascalCase)\"": "SeveredArm",
+    "\"Name (SNAKE_CASE)\"": "SEVERED_ARM"
+  },
+  {
+    "ID": "482",
+    "\"Name (singular)\"": "\"Severed Head\"",
+    "\"Name (PascalCase)\"": "SeveredHead",
+    "\"Name (SNAKE_CASE)\"": "SEVERED_HEAD"
+  },
+  {
+    "ID": "481",
+    "\"Name (singular)\"": "\"Severed Leg\"",
+    "\"Name (PascalCase)\"": "SeveredLeg",
+    "\"Name (SNAKE_CASE)\"": "SEVERED_LEG"
+  },
+  {
+    "ID": "397",
+    "\"Name (singular)\"": "Shiitake",
+    "\"Name (PascalCase)\"": "ShiitakeMushroom",
+    "\"Name (SNAKE_CASE)\"": "SHIITAKE"
+  },
+  {
+    "ID": "371",
+    "\"Name (singular)\"": "\"Shotgun Buckshot\"",
+    "\"Name (PascalCase)\"": "ShotgunAmmoBoxBuckshot",
+    "\"Name (SNAKE_CASE)\"": "SHOTGUN_BUCKSHOT"
+  },
+  {
+    "ID": "372",
+    "\"Name (singular)\"": "\"Shotgun Slug\"",
+    "\"Name (PascalCase)\"": "ShotgunAmmoBoxSlug",
+    "\"Name (SNAKE_CASE)\"": "SHOTGUN_SLUG"
+  },
+  {
+    "ID": "358",
+    "\"Name (singular)\"": "Shotgun",
+    "\"Name (PascalCase)\"": "ShotgunPumpAction",
+    "\"Name (SNAKE_CASE)\"": "SHOTGUN"
+  },
+  {
+    "ID": "346",
+    "\"Name (singular)\"": "\"Shotgun Rail\"",
+    "\"Name (PascalCase)\"": "ShotgunRail",
+    "\"Name (SNAKE_CASE)\"": "SHOTGUN_RAIL"
+  },
+  {
+    "ID": "485",
+    "\"Name (singular)\"": "Shovel",
+    "\"Name (PascalCase)\"": "Shovel",
+    "\"Name (SNAKE_CASE)\"": "SHOVEL"
+  },
+  {
+    "ID": "487",
+    "\"Name (singular)\"": "\"Silk Pyjamas\"",
+    "\"Name (PascalCase)\"": "SilkPyjamas",
+    "\"Name (SNAKE_CASE)\"": "SILK_PYJAMAS"
+  },
+  {
+    "ID": "430",
+    "\"Name (singular)\"": "Skull",
+    "\"Name (PascalCase)\"": "Skull",
+    "\"Name (SNAKE_CASE)\"": "SKULL"
+  },
+  {
+    "ID": "573",
+    "\"Name (singular)\"": "\"Sleeping Bag\"",
+    "\"Name (PascalCase)\"": "SleepingBag",
+    "\"Name (SNAKE_CASE)\"": "SLEEPING_BAG"
+  },
+  {
+    "ID": "459",
+    "\"Name (singular)\"": "Slingshot",
+    "\"Name (PascalCase)\"": "Slingshot",
+    "\"Name (SNAKE_CASE)\"": "SLINGSHOT"
+  },
+  {
+    "ID": "363",
+    "\"Name (singular)\"": "\"Shotgun Slug\"",
+    "\"Name (PascalCase)\"": "SlugAmmo",
+    "\"Name (SNAKE_CASE)\"": "SHOTGUN_SLUG"
+  },
+  {
+    "ID": "476",
+    "\"Name (singular)\"": "\"Small Rock\"",
+    "\"Name (PascalCase)\"": "SmallRock",
+    "\"Name (SNAKE_CASE)\"": "SMALL_ROCK"
+  },
+  {
+    "ID": "448",
+    "\"Name (singular)\"": "Snowberries",
+    "\"Name (PascalCase)\"": "Snowberries",
+    "\"Name (SNAKE_CASE)\"": "SNOWBERRIES"
+  },
+  {
+    "ID": "513",
+    "\"Name (singular)\"": "Spring",
+    "\"Name (PascalCase)\"": "Spring",
+    "\"Name (SNAKE_CASE)\"": "SPRING"
+  },
+  {
+    "ID": "392",
+    "\"Name (singular)\"": "Stick",
+    "\"Name (PascalCase)\"": "Stick",
+    "\"Name (SNAKE_CASE)\"": "STICK"
+  },
+  {
+    "ID": "617",
+    "\"Name (singular)\"": "\"Stock Price\"",
+    "\"Name (PascalCase)\"": "StockPricePrintout",
+    "\"Name (SNAKE_CASE)\"": "STOCK_PRICE_PRINTOUT"
+  },
+  {
+    "ID": "520",
+    "\"Name (singular)\"": "\"Structure Element\"",
+    "\"Name (PascalCase)\"": "\"Structure Element\"",
+    "\"Name (SNAKE_CASE)\"": "STRUCTURE_ELEMENT"
+  },
+  {
+    "ID": "353",
+    "\"Name (singular)\"": "\"Stun Gun\"",
+    "\"Name (PascalCase)\"": "StunGun",
+    "\"Name (SNAKE_CASE)\"": "STUN_GUN"
+  },
+  {
+    "ID": "369",
+    "\"Name (singular)\"": "\"Stun Gun Ammo\"",
+    "\"Name (PascalCase)\"": "StunGunAmmo",
+    "\"Name (SNAKE_CASE)\"": "STUN_GUN_AMMO"
+  },
+  {
+    "ID": "457",
+    "\"Name (singular)\"": "\"Stun Gun Ammo\"",
+    "\"Name (PascalCase)\"": "StunGunAmmoBox",
+    "\"Name (SNAKE_CASE)\"": "STUN_GUN_AMMO"
+  },
+  {
+    "ID": "379",
+    "\"Name (singular)\"": "\"Tactical Axe\"",
+    "\"Name (PascalCase)\"": "TacticalAxe",
+    "\"Name (SNAKE_CASE)\"": "TACTICAL_AXE"
+  },
+  {
+    "ID": "501",
+    "\"Name (singular)\"": "\"Tactical Boots\"",
+    "\"Name (PascalCase)\"": "TacticalBoots",
+    "\"Name (SNAKE_CASE)\"": "TACTICAL_BOOTS"
+  },
+  {
+    "ID": "360",
+    "\"Name (singular)\"": "\"Tactical Bow\"",
+    "\"Name (PascalCase)\"": "TacticalBow",
+    "\"Name (SNAKE_CASE)\"": "TACTICAL_BOW"
+  },
+  {
+    "ID": "373",
+    "\"Name (singular)\"": "\"Tactical Arrow\"",
+    "\"Name (PascalCase)\"": "TacticalBowAmmo",
+    "\"Name (SNAKE_CASE)\"": "TACTICAL_ARROW"
+  },
+  {
+    "ID": "394",
+    "\"Name (singular)\"": "Chainsaw",
+    "\"Name (PascalCase)\"": "TacticalChainsaw",
+    "\"Name (SNAKE_CASE)\"": "CHAINSAW"
+  },
+  {
+    "ID": "495",
+    "\"Name (singular)\"": "\"Tactical Jacket\"",
+    "\"Name (PascalCase)\"": "TacticalJacket",
+    "\"Name (SNAKE_CASE)\"": "TACTICAL_JACKET"
+  },
+  {
+    "ID": "489",
+    "\"Name (singular)\"": "\"Tactical Pants\"",
+    "\"Name (PascalCase)\"": "TacticalPants",
+    "\"Name (SNAKE_CASE)\"": "TACTICAL_PANTS"
+  },
+  {
+    "ID": "504",
+    "\"Name (singular)\"": "Tarp",
+    "\"Name (PascalCase)\"": "Tarp",
+    "\"Name (SNAKE_CASE)\"": "TARP"
+  },
+  {
+    "ID": "396",
+    "\"Name (singular)\"": "\"Stun Baton\"",
+    "\"Name (PascalCase)\"": "TaserStick",
+    "\"Name (SNAKE_CASE)\"": "STUN_BATON"
+  },
+  {
+    "ID": "554",
+    "\"Name (singular)\"": "\"Tech Armour\"",
+    "\"Name (PascalCase)\"": "TechArmour",
+    "\"Name (SNAKE_CASE)\"": "TECH_ARMOUR"
+  },
+  {
+    "ID": "553",
+    "\"Name (singular)\"": "\"Tech Mesh\"",
+    "\"Name (PascalCase)\"": "TechMesh",
+    "\"Name (SNAKE_CASE)\"": "TECH_MESH"
+  },
+  {
+    "ID": "417",
+    "\"Name (singular)\"": "\"Time Bomb\"",
+    "\"Name (PascalCase)\"": "TimeBomb",
+    "\"Name (SNAKE_CASE)\"": "TIME_BOMB"
+  },
+  {
+    "ID": "503",
+    "\"Name (singular)\"": "Torch",
+    "\"Name (PascalCase)\"": "Torch",
+    "\"Name (SNAKE_CASE)\"": "TORCH"
+  },
+  {
+    "ID": "366",
+    "\"Name (singular)\"": "\"Tracker Dart\"",
+    "\"Name (PascalCase)\"": "TrackerDart",
+    "\"Name (SNAKE_CASE)\"": "TRACKER_DART"
+  },
+  {
+    "ID": "401",
+    "\"Name (singular)\"": "\"Turtle Egg\"",
+    "\"Name (PascalCase)\"": "TurtleEgg",
+    "\"Name (SNAKE_CASE)\"": "TURTLE_EGG"
+  },
+  {
+    "ID": "506",
+    "\"Name (singular)\"": "\"Turtle Shell\"",
+    "\"Name (PascalCase)\"": "TurtleShell",
+    "\"Name (SNAKE_CASE)\"": "TURTLE_SHELL"
+  },
+  {
+    "ID": "589",
+    "\"Name (singular)\"": "\"S.C.R.E.W. / Tutorials\"",
+    "\"Name (PascalCase)\"": "TutorialBook",
+    "\"Name (SNAKE_CASE)\"": "S_C_R_E_W__TUTORIALS"
+  },
+  {
+    "ID": "515",
+    "\"Name (singular)\"": "\"Basic Building Tutorial Page\"",
+    "\"Name (PascalCase)\"": "TutorialPageBasicBuilding",
+    "\"Name (SNAKE_CASE)\"": "BASIC_BUILDING_TUTORIAL_PAGE"
+  },
+  {
+    "ID": "516",
+    "\"Name (singular)\"": "\"Tarp Tent Tutorial Page\"",
+    "\"Name (PascalCase)\"": "TutorialPageTarpTent",
+    "\"Name (SNAKE_CASE)\"": "TARP_TENT_TUTORIAL_PAGE"
+  },
+  {
+    "ID": "492",
+    "\"Name (singular)\"": "Tuxedo",
+    "\"Name (PascalCase)\"": "Tuxedo",
+    "\"Name (SNAKE_CASE)\"": "TUXEDO"
+  },
+  {
+    "ID": "446",
+    "\"Name (singular)\"": "Twinberries",
+    "\"Name (PascalCase)\"": "Twinberries",
+    "\"Name (SNAKE_CASE)\"": "TWINBERRIES"
+  },
+  {
+    "ID": "558",
+    "\"Name (singular)\"": "\"Camoflage Suit\"",
+    "\"Name (PascalCase)\"": "VirginiaCamoSuit",
+    "\"Name (SNAKE_CASE)\"": "CAMOFLAGE_SUIT"
+  },
+  {
+    "ID": "556",
+    "\"Name (singular)\"": "Dress",
+    "\"Name (PascalCase)\"": "VirginiaDress",
+    "\"Name (SNAKE_CASE)\"": "DRESS"
+  },
+  {
+    "ID": "557",
+    "\"Name (singular)\"": "\"Leather Suit\"",
+    "\"Name (PascalCase)\"": "VirginiaLeatherSuit",
+    "\"Name (SNAKE_CASE)\"": "LEATHER_SUIT"
+  },
+  {
+    "ID": "619",
+    "\"Name (singular)\"": "\"Swim Suit\"",
+    "\"Name (PascalCase)\"": "VirginiaSwimSuit",
+    "\"Name (SNAKE_CASE)\"": "SWIM_SUIT"
+  },
+  {
+    "ID": "555",
+    "\"Name (singular)\"": "\"Track Suit\"",
+    "\"Name (PascalCase)\"": "VirginiaTrackSuit",
+    "\"Name (SNAKE_CASE)\"": "TRACK_SUIT"
+  },
+  {
+    "ID": "414",
+    "\"Name (singular)\"": "\"Vodka Bottle\"",
+    "\"Name (PascalCase)\"": "VodkaBottle",
+    "\"Name (SNAKE_CASE)\"": "VODKA_BOTTLE"
+  },
+  {
+    "ID": "486",
+    "\"Name (singular)\"": "\"Walkie Talkie\"",
+    "\"Name (PascalCase)\"": "WalkieTalkie",
+    "\"Name (SNAKE_CASE)\"": "WALKIE_TALKIE"
+  },
+  {
+    "ID": "499",
+    "\"Name (singular)\"": "Wetsuit",
+    "\"Name (PascalCase)\"": "Wetsuit",
+    "\"Name (SNAKE_CASE)\"": "WETSUIT"
+  },
+  {
+    "ID": "418",
+    "\"Name (singular)\"": "Wire",
+    "\"Name (PascalCase)\"": "Wire",
+    "\"Name (SNAKE_CASE)\"": "WIRE"
+  },
+  {
+    "ID": "410",
+    "\"Name (singular)\"": "Watch",
+    "\"Name (PascalCase)\"": "Wristwatch",
+    "\"Name (SNAKE_CASE)\"": "WATCH"
+  },
+  {
+    "ID": "452",
+    "\"Name (singular)\"": "Yarrow",
+    "\"Name (PascalCase)\"": "Yarro",
+    "\"Name (SNAKE_CASE)\"": "YARROW"
+  },
+  {
+    "ID": "606",
+    "\"Name (singular)\"": "\"Yarro Seed\"",
+    "\"Name (PascalCase)\"": "YarroSeed",
+    "\"Name (SNAKE_CASE)\"": "YARRO_SEED"
+  },
+  {
+    "ID": "523",
+    "\"Name (singular)\"": "\"Zipline Rope\"",
+    "\"Name (PascalCase)\"": "ZiplineRope",
+    "\"Name (SNAKE_CASE)\"": "ZIPLINE_ROPE"
+  }
+]
