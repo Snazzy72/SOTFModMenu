@@ -24,7 +24,7 @@ The end goal is to obviously modify all in game items, vitals, stats, game state
 * SpeedRun
 * ESP
 
-At the time of writing the README, the only implement feature is `Item Spawner` - Add any item to inventory, with custom amount
+At the time of writing the README, the only implemented feature is `Item Spawner` - Add any item to inventory, with custom amount
 
 ## Installation:
 
