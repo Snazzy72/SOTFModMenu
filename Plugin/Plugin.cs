@@ -37,7 +37,7 @@ namespace SOTFModMenu.Plugin
             try
             {
                 Harmony.CreateAndPatchAll(Assembly.GetExecutingAssembly(), null);
-                Log.LogMessage("Successfully registered Patches!");
+                Log.LogMessage("Successfully Registered Patches!");
             }
             catch
             {
