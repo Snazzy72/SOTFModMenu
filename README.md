@@ -1,6 +1,5 @@
 # SOTFModMenu
 Mod Menu for Sons Of The Forest
-![Screenshot](Assets\SOTFModMenu.png)
 
 ## Status
 Currently still a WIP. I will be working on this project whenever I get time. I will keep the repo visibility as public throughout development, to allow you to make use of any source code as it's posted, should you need it.
@@ -30,3 +29,6 @@ At the time of writing the README, the only implemented feature is `Item Spawner
 * Run the game. If everything runs correctly, you will see BepInEx console pop up on your desktop
 
 Step 3 is not yet available. I will create a release once I have implemented a few more features. Feel free to look into the source code and build your own DLL from it if you'd like to use it immediately.
+
+* If installation of BepinEx was successfull, you should see this in the console upon launching your game:
+![Screenshot](https://github.com/Snazzy72/SOTFModMenu/blob/main/Assets/SOTFModMenu.png)
