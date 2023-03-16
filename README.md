@@ -1,5 +1,6 @@
 # SOTFModMenu
 Mod Menu for Sons Of The Forest
+![plot](C:\Users\ryant\OneDrive\Pictures\SOTFModMenu.png)
 
 ## Status
 Currently still a WIP. I will be working on this project whenever I get time. I will keep the repo visibility as public throughout development, to allow you to make use of any source code as it's posted, should you need it.
