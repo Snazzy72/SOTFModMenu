@@ -4,7 +4,7 @@ using Newtonsoft.Json.Linq;
 
 namespace SOTFModMenu.Components.Validation
 {
-    public class ValidateItemID
+    public static class ValidateItemID
     {
         public static bool IsValidItemId(int itemID)
         {

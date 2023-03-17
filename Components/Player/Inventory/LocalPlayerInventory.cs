@@ -1,27 +1,31 @@
-﻿using TheForest.Utils;
-using static SOTFModMenu.Components.Validation.ValidateItemID;
+﻿using System;
+using TheForest.Utils;
+using SOTFModMenu.Components.Utility;
 using static SOTFModMenu.Plugin.Plugin;
+using static SOTFModMenu.Components.Validation.ValidateItemID;
+
 
 namespace SOTFModMenu.Components.Player.Inventory
 {
-    internal static class LocalPlayerInventory
+    public static class LocalPlayerInventory
     {
-        public static void AddItemToInventory(int itemID, int amount = 1)
+        public static void AddItemToInventory()
         {
-            if (IsValidItemId(itemID))
+            try
             {
-                try
+                int itemID = int.Parse(Settings.TextFieldItemID);
+                int amount = int.Parse(Settings.TextFieldAmount);
+                if (!IsValidItemId(itemID))
                 {
-                    LocalPlayer.Inventory.AddItem(itemID, amount);
+                    log.LogError($"Invalid itemID given: {itemID}");
+                    return;
                 }
-                catch
-                {
-                    log.LogError($"Unable to add item with ID: {itemID}");
-                }
+
+                LocalPlayer.Inventory.AddItem(itemID, amount);
             }
-            else
+            catch (Exception error)
             {
-                log.LogError($"Invalid item ID given: {itemID}");
+                log.LogFatal($"Exception occured: {error}");
             }
         }
     }
