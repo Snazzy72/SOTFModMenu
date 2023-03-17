@@ -3,6 +3,7 @@
 Mod Menu for Sons Of The Forest
 
 - Valid ItemID's are stored in `Items/ItemList.csv`
+- Keep in mind, no sanity checks have been made for item amounts. Adding, let's say, 100 backpacks could cause issues. Be wary of this.
 
 ## Status
 
