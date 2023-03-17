@@ -34,7 +34,6 @@ This was only tested in `Single Player`. Feedback on whether it works in `Multip
 - No Hunger
 - No Thirst
 - Always Rested
-- Instant Build
 - infinite Logs
 - Instant Build
 - Infinite Ammo
@@ -52,7 +51,6 @@ This was only tested in `Single Player`. Feedback on whether it works in `Multip
 - No Hunger
 - No Thirst
 - Always Rested
-- Instant Build
 - Instant Build
 - Infinite Ammo
 - Item Spawner
