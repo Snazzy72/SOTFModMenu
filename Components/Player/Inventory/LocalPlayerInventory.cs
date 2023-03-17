@@ -15,9 +15,10 @@ namespace SOTFModMenu.Components.Player.Inventory
             {
                 int itemID = int.Parse(Settings.TextFieldItemID);
                 int amount = int.Parse(Settings.TextFieldAmount);
+
                 if (!IsValidItemId(itemID))
                 {
-                    log.LogError($"Invalid itemID given: {itemID}");
+                    log.LogWarning(@$"Invalid itemID given: {itemID} | List of Items and their corresponding ID's: https://github.com/Snazzy72/SOTFModMenu/blob/main/Items/ItemList.csv");
                     return;
                 }
 

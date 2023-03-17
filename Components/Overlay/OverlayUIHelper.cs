@@ -1,7 +1,4 @@
 using Il2CppSystem;
-using Sons.Input;
-using TheForest.Items.Inventory;
-using TheForest.Utils;
 using UnityEngine;
 using SOTFModMenu.Components.Utility;
 using SOTFModMenu.Components.Player.Inventory;

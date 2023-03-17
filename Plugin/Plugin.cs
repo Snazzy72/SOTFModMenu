@@ -1,16 +1,11 @@
 ﻿using BepInEx;
-using BepInEx.NET.Common;
-using BepInEx.Configuration;
-using BepInEx.Unity.IL2CPP;
 using HarmonyLib;
 using Il2CppInterop.Runtime.Injection;
-using System.IO;
 using System.Reflection;
 using UnityEngine;
 using BepInEx.Logging;
 using Object = UnityEngine.Object;
 using static SOTFModMenu.Plugin.PluginData.About;
-using Il2CppSystem;
 
 namespace SOTFModMenu.Plugin
 {
@@ -43,6 +38,7 @@ namespace SOTFModMenu.Plugin
             {
                 Log.LogError("Failed to register Patches!");
             }
+
             Log.LogMessage($"Plugin '{PLUGIN_GUID}' is loaded!");
         }
 

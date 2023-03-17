@@ -18,6 +18,7 @@
   <ItemGroup>
     <PackageReference Include="BepInEx.NET.CoreCLR" Version="6.0.0-be.*" IncludeAssets="compile" />
     <PackageReference Include="BepInEx.PluginInfoProps" Version="2.*" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
   <ItemGroup>
@@ -57,6 +58,9 @@
     <Reference Include="Sons.StatSystem">
       <HintPath>lib\Sons.StatSystem.dll</HintPath>
     </Reference>
+    <Reference Include="SOTFModMenu_Overlay">
+      <HintPath>..\SOTFModMenu_Overlay\bin\Debug\net6.0-windows\SOTFModMenu_Overlay.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
       <HintPath>lib\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
     </Reference>
@@ -69,5 +73,12 @@
     <Reference Include="UnityEngine.InputLegacyModule">
       <HintPath>lib\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>..\..\..\..\..\Downloads\Il2CppDumper-net6-win-v6.7.40\DummyDll\UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Items\" />
   </ItemGroup>
 </Project>

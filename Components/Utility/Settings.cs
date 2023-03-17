@@ -26,6 +26,6 @@ public static class Settings
 
     public static bool CaveLight = false;
 
-    public static string TextFieldItemID = "485";
-    public static string TextFieldAmount = "1";
+    public static string TextFieldItemID = "ID";
+    public static string TextFieldAmount = "Amount";
 }
