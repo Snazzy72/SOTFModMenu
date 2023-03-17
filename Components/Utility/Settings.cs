@@ -18,12 +18,6 @@ public static class Settings
     public static bool InstantBuild = false;
     public static bool InfBuild = false;
 
-    public static bool EspEnable = true;
-    public static bool EspAnimalsEnable = false;
-    public static bool EspEnemyEnable = false;
-    public static bool EspFriendlyEnable = false;
-    public static bool EspStructureDamage = false;
-
     public static bool InfLogs = false;
 
     public static bool InfAmmo = false;
