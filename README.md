@@ -2,6 +2,9 @@
 
 Mod Menu for Sons Of The Forest
 
+- Use `Backquote` to open the menu overlay.
+- To change keybinds, edit `SOTFModMenu.cfg` in `BepinEx/config`.
+
 - Valid ItemID's are stored in `Items/ItemList.csv`
 - Keep in mind, no sanity checks have been made for item amounts. Adding, let's say, 100 backpacks could cause issues. Be wary of this.
 
@@ -21,8 +24,6 @@ This was only tested in `Single Player`. Feedback on whether it works in `Multip
 
 - If installation of BepinEx was successfull, you should see this in the console upon launching your game:
   ![Screenshot](https://github.com/Snazzy72/SOTFModMenu/blob/main/Assets/SOTFModMenu.png)
-
-- Use `Backquote` to open the menu overlay
 
 ## Planned Features
 
