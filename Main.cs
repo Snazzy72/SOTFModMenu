@@ -7,6 +7,7 @@ using SOTFModMenu.Components.Utility;
 using SOTFModMenu.Components.Player.Stats;
 using SOTFModMenu.Components.Player.Ammo;
 using SOTFModMenu.Components.Player.Crafting;
+using SOTFModMenu.Components.Player.Inventory;
 using SOTFModMenu.Components.Player.Other;
 
 namespace SOTFModMenu 
@@ -40,6 +41,7 @@ namespace SOTFModMenu
                     return;
                 }
 
+                LocalPlayerInventory.ItemSpawnerHotkeyPressed();
                 LocalPlayerAmmo.EnableInfAmmo();
                 LocalPlayerSpeedyRun.EnableSpeedyRun();
                 LocalPlayerStats.ModifyVitals();
