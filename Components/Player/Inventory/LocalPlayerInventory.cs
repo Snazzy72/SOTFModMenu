@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEngine;
 using TheForest.Utils;
 using SOTFModMenu.Components.Utility;
 using static SOTFModMenu.Plugin.Plugin;
@@ -18,7 +19,7 @@ namespace SOTFModMenu.Components.Player.Inventory
 
                 if (!IsValidItemId(itemID))
                 {
-                    log.LogWarning(@$"Invalid itemID given: {itemID} | List of Items and their corresponding ID's: https://github.com/Snazzy72/SOTFModMenu/blob/main/Items/ItemList.csv");
+                    log.LogWarning($"Invalid itemID given: {itemID} | List of Items and their corresponding ID's: https://github.com/Snazzy72/SOTFModMenu/blob/main/Items/ItemList.csv");
                     return;
                 }
 
@@ -27,6 +28,14 @@ namespace SOTFModMenu.Components.Player.Inventory
             catch (Exception error)
             {
                 log.LogFatal($"Exception occured: {error}");
+            }
+        }
+
+        public static void ItemSpawnerHotkeyPressed()
+        {
+            if (Input.GetKeyDown(ItemSpawnerKeybind.Value))
+            {
+                AddItemToInventory();
             }
         }
     }
