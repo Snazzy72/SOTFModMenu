@@ -4,7 +4,7 @@ Mod Menu for Sons Of The Forest
 
 - Use `Backquote` to open the menu overlay.
 - To change keybinds, edit `SOTFModMenu.cfg` in `BepinEx/config`.
-** Note, you must start a game and then quit for the config file to be created.
+- Note, you must start a game and then quit for the config file to be created.
 
 - Valid ItemID's are stored in `Items/ItemList.csv`
 - Keep in mind, no sanity checks have been made for item amounts. Adding, let's say, 100 backpacks could cause issues. Be wary of this.
@@ -42,6 +42,7 @@ This was only tested in `Single Player`. Feedback on whether it works in `Multip
 - Item Spawner
 - SpeedRun
 - Custom keybinds (For opening menu overlay and spawning Items)
+- And more...
 
 ## Implemented Features as of release v2.0.0
 
