@@ -17,6 +17,7 @@ namespace SOTFModMenu.Plugin
     {
         public static ConfigFile ConfigFile = new(Path.Combine(Paths.ConfigPath, "SOTFModMenu.cfg"), true);
         public static ConfigEntry<KeyCode> OverlayMenuKeybind = ConfigFile.Bind("Hotkeys", "Toggle", KeyCode.BackQuote, "View and Hide the Overlay Menu");
+        public static ConfigEntry<KeyCode> ItemSpawnerKeybind = ConfigFile.Bind("Hotkeys", "SpawnItem", KeyCode.F10, "Spawn currently stored ItemID");
 
         public Plugin()
         {
