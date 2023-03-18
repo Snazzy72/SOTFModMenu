@@ -1,9 +1,10 @@
 using Sons.Input;
-using SOTFModMenu.Components.Player.Inventory;
-using SOTFModMenu.Components.Utility;
 using TheForest.Items.Inventory;
 using TheForest.Utils;
 using UnityEngine;
+using SOTFModMenu.Components.Player.Inventory;
+using SOTFModMenu.Components.Utility;
+using static SOTFModMenu.Plugin.Plugin;
 
 namespace SOTFModMenu.Components.Overlay
 {
@@ -25,24 +26,28 @@ namespace SOTFModMenu.Components.Overlay
             Settings.InfAmmo = OverlayUIHelper.Button("Infinite Ammo: ", Settings.InfAmmo);
             Settings.SpeedyRun = OverlayUIHelper.Button("SpeedRun: ", Settings.SpeedyRun);
 
-            OverlayUIHelper.Section("World", 180, 10, 165, 60, 2, 20, 2);
+            OverlayUIHelper.Section("Crafting", 180, 10, 165, 85, 2, 20, 2);
             Settings.InstantBuild = OverlayUIHelper.Button("Instant Build: ", Settings.InstantBuild);
             Settings.InfBuild = OverlayUIHelper.Button("Infinite Build: ", Settings.InfBuild);
+            Settings.InfLogs = OverlayUIHelper.Button("Infinite Logs: ", Settings.InfLogs);
 
             OverlayUIHelper.Section("Item Spawner", 10, 256, 165, 50, 2, 15, 2);
             OverlayUIHelper.Label("Enter id & amount");
             Settings.TextFieldItemID = GUI.TextField(new Rect(14, 292, 75, 20), Settings.TextFieldItemID);
             Settings.TextFieldAmount = GUI.TextField(new Rect(90, 292, 80, 20), Settings.TextFieldAmount);
             GUI.skin.GetStyle("TextField").alignment = TextAnchor.MiddleCenter;
+
             if (GUI.Button(new Rect(12, 314, 161, 20), "Spawn item"))
+            {
                 LocalPlayerInventory.AddItemToInventory();
+            }
 
             GUI.backgroundColor = Color.grey;
         }
 
         public static void ShowMenu()
         {
-            if (Input.GetKeyDown(KeyCode.BackQuote))
+            if (Input.GetKeyDown(OverlayMenuKeybind.Value))
             {
                 Settings.Visible = !Settings.Visible;
                 if (Settings.Visible)

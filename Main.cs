@@ -45,6 +45,7 @@ namespace SOTFModMenu
                 LocalPlayerStats.ModifyVitals();
                 LocalPlayerCraftingSystem.EnableInstantBuild();
                 LocalPlayerCraftingSystem.EnableInfBuild();
+                LocalPlayerCraftingSystem.EnableInfLogs();
             }
         }
     }

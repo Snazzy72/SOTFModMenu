@@ -1,17 +1,23 @@
 ﻿using BepInEx;
+using BepInEx.Configuration;
 using HarmonyLib;
 using Il2CppInterop.Runtime.Injection;
 using System.Reflection;
 using UnityEngine;
 using BepInEx.Logging;
+using System.IO;
 using Object = UnityEngine.Object;
 using static SOTFModMenu.Plugin.PluginData.About;
+
 
 namespace SOTFModMenu.Plugin
 {
     [BepInPlugin(PLUGIN_GUID, PLUGIN_NAME, PLUGIN_VERSION)]
     public class Plugin : BepInEx.Unity.IL2CPP.BasePlugin
     {
+        public static ConfigFile ConfigFile = new(Path.Combine(Paths.ConfigPath, "SOTFModMenu.cfg"), true);
+        public static ConfigEntry<KeyCode> OverlayMenuKeybind = ConfigFile.Bind("Hotkeys", "Toggle", KeyCode.BackQuote, "View and Hide the Overlay Menu");
+
         public Plugin()
         {
             log = Log;
