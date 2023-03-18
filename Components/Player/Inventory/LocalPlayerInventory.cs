@@ -3,8 +3,7 @@ using UnityEngine;
 using TheForest.Utils;
 using SOTFModMenu.Components.Utility;
 using static SOTFModMenu.Plugin.Plugin;
-using static SOTFModMenu.Components.Validation.ValidateItemID;
-
+using static SOTFModMenu.Components.Validation.Validate;
 
 namespace SOTFModMenu.Components.Player.Inventory
 {

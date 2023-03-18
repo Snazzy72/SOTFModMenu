@@ -1,10 +1,13 @@
-using Sons.Input;
 using TheForest.Items.Inventory;
 using TheForest.Utils;
+using Sons.Input;
+using Sons.Multiplayer.Gui;
+using Steamworks;
 using UnityEngine;
 using SOTFModMenu.Components.Player.Inventory;
 using SOTFModMenu.Components.Utility;
 using static SOTFModMenu.Plugin.Plugin;
+using Sons.Gui.Multiplayer;
 
 namespace SOTFModMenu.Components.Overlay
 {
@@ -12,6 +15,7 @@ namespace SOTFModMenu.Components.Overlay
     {
         public static void Display()
         {
+
             GUI.color = Color.white;
 
             OverlayUIHelper.Section("Player", 10, 10, 165, 241, 2, 20, 2);
@@ -40,13 +44,21 @@ namespace SOTFModMenu.Components.Overlay
             if (GUI.Button(new Rect(12, 314, 161, 20), "Spawn item"))
             {
                 LocalPlayerInventory.AddItemToInventory();
+                
             }
 
             GUI.backgroundColor = Color.grey;
         }
 
-        public static void ShowMenu()
+        public static void ShowMenu(PlayerListBase playerListBase)
         {
+            ulong steamID = (ulong)SteamUser.GetSteamID();
+
+            if (!playerListBase.IsHost(steamID))
+            {
+                return;
+            }
+
             if (Input.GetKeyDown(OverlayMenuKeybind.Value))
             {
                 Settings.Visible = !Settings.Visible;
@@ -57,7 +69,7 @@ namespace SOTFModMenu.Components.Overlay
                     Cursor.lockState = CursorLockMode.None;
                     return;
                 }
-                if (LocalPlayer.IsInWorld || LocalPlayer.IsInInventory || LocalPlayer.IsConstructing || LocalPlayer.IsInMidAction 
+                if (LocalPlayer.IsInWorld || LocalPlayer.IsInInventory || LocalPlayer.IsConstructing || LocalPlayer.IsInMidAction
                     || LocalPlayer.CurrentView == PlayerInventory.PlayerViews.Hidden)
                 {
                     InputSystem.SetState(0, false);

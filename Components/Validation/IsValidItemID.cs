@@ -1,10 +1,12 @@
 using System;
+using System.Text;
 using System.IO;
 using Newtonsoft.Json.Linq;
+using Il2CppSystem.Collections.Generic;
 
 namespace SOTFModMenu.Components.Validation
 {
-    public static class ValidateItemID
+    public static class Validate
     {
         public static bool IsValidItemId(int itemID)
         {

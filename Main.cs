@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
-using TheForest.Utils;
 using UnityEngine.SceneManagement;
+using TheForest.Utils;
+using Sons.Multiplayer.Gui;
 using SOTFModMenu.Components.Cache;
 using SOTFModMenu.Components.Overlay;
 using SOTFModMenu.Components.Utility;
@@ -19,6 +20,8 @@ namespace SOTFModMenu
             public static Scene sonsMainScene;
             public static Camera cameraMain;
 
+            PlayerListBase playerListBase = new();
+
             private void OnGUI()
             {
                 if (!Settings.Visible)
@@ -30,8 +33,7 @@ namespace SOTFModMenu
             }
 
             private void Update()
-            {
-                OverlayMenu.ShowMenu();
+            {  
 
                 CacheManager.CacheMainScene(sonsMainScene);
                 CacheManager.CacheMainCamera(cameraMain);
@@ -40,6 +42,8 @@ namespace SOTFModMenu
                 {
                     return;
                 }
+
+                OverlayMenu.ShowMenu(playerListBase);
 
                 LocalPlayerInventory.ItemSpawnerHotkeyPressed();
                 LocalPlayerAmmo.EnableInfAmmo();
