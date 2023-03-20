@@ -7,7 +7,8 @@ using UnityEngine;
 using SOTFModMenu.Components.Player.Inventory;
 using SOTFModMenu.Components.Utility;
 using static SOTFModMenu.Plugin.Plugin;
-using Sons.Gui.Multiplayer;
+using Construction.Multiplayer;
+using Sons.Gameplay.GameSetup;
 
 namespace SOTFModMenu.Components.Overlay
 {
@@ -52,13 +53,6 @@ namespace SOTFModMenu.Components.Overlay
 
         public static void ShowMenu(PlayerListBase playerListBase)
         {
-            ulong steamID = (ulong)SteamUser.GetSteamID();
-
-            if (!playerListBase.IsHost(steamID))
-            {
-                return;
-            }
-
             if (Input.GetKeyDown(OverlayMenuKeybind.Value))
             {
                 Settings.Visible = !Settings.Visible;
@@ -76,7 +70,7 @@ namespace SOTFModMenu.Components.Overlay
                     Cursor.visible = false;
                     Cursor.lockState = CursorLockMode.Locked;
                 }
-            }
+            }         
         }
     }
 }

@@ -1,8 +1,6 @@
 using System;
-using System.Text;
 using System.IO;
 using Newtonsoft.Json.Linq;
-using Il2CppSystem.Collections.Generic;
 
 namespace SOTFModMenu.Components.Validation
 {
