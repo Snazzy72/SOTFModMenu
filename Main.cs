@@ -2,7 +2,6 @@
 using UnityEngine.SceneManagement;
 using TheForest.Utils;
 using Sons.Multiplayer.Gui;
-using static SOTFModMenu.Plugin.Plugin;
 using SOTFModMenu.Components.Cache;
 using SOTFModMenu.Components.Overlay;
 using SOTFModMenu.Components.Utility;

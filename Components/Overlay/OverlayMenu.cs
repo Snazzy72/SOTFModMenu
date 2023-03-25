@@ -7,8 +7,7 @@ using UnityEngine;
 using SOTFModMenu.Components.Player.Inventory;
 using SOTFModMenu.Components.Utility;
 using static SOTFModMenu.Plugin.Plugin;
-using Construction.Multiplayer;
-using Sons.Gameplay.GameSetup;
+using Sons.Multiplayer;
 
 namespace SOTFModMenu.Components.Overlay
 {

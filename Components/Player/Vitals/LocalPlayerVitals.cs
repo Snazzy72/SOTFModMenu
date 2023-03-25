@@ -16,6 +16,7 @@ namespace SOTFModMenu.Components.Player.Stats
             if (Settings.Health)
             {
                 vitals._health._currentValue = vitals._health._max;
+                LocalPlayer.FpCharacter._allowFallDamage = false;
             }
 
             if (Settings.Stamina)

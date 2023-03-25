@@ -47,6 +47,7 @@ namespace SOTFModMenu.Plugin
             }
 
             Log.LogMessage($"Plugin '{PLUGIN_GUID}' is loaded!");
+            Log.LogMessage($"ModMenu overlay keybind set to: {OverlayMenuKeybind.Value}");
         }
 
         private static void RegisterIL2CPPType()
